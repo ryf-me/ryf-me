@@ -16,12 +16,11 @@ I'm Insath Raif
 
 ## Current Projects
 - DYNA POS
-- TOUR MATE Cab Service App
+- SLIKY POS
 
 ## Connect With Me
 - LinkedIn
 - Instagram
-- Portfolio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryf-me&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryf-me&layout=compact&theme=tokyonight)
