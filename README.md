@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
+I'm Insath Raif
 
-<!--
-**ryf-me/ryf-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Software Engineering Student
+- 💻 Learning Full Stack Development
+- 🚀 Interested in AI, UI/UX & Modern Web Apps
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- C++
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- DYNA POS
+- TOUR MATE Cab Service App
+
+## Connect With Me
+- LinkedIn
+- Instagram
+- Portfolio
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryf-me&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryf-me&layout=compact&theme=tokyonight)
