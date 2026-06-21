@@ -50,14 +50,14 @@
 
 ## 📊 GitHub Stats
 
-![Insath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Insath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryf-me&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryf-me&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/ryf-me/ryf-me/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
