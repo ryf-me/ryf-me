@@ -1,4 +1,7 @@
-# Hey there! I'm Insath Raif 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20I'm%20Insath!%20👋&fontSize=50&animation=fadeIn&fontColor=fff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=false&width=500&lines=Student+%7C+Code+Learner;Open+Source+Explorer+🌍;Coffee-Fueled+Coder+☕;Always+Learning+Something+New!;Let's+Build+Something+Cool+🚀)](https://git.io/typing-svg)
+
 ### Student · Code Learner · Caffeine Enthusiast
 
 ---
@@ -47,9 +50,17 @@
 
 ## 📊 GitHub Stats
 
-![Insath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryf-me&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryf-me&layout=compact&theme=tokyonight&hide_border=true)
+![Insath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 💬 Feel free to explore my repos, open an issue, or just say hi. Let's build something cool together!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
